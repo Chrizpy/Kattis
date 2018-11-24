@@ -35,3 +35,6 @@ while(cin >> jack >> jill)
 ```
 
 Why I do it like this is easy! I went from a 1.15s running time to a whopping 0.55s!
+Jokes aside. If you're interested, there's tons you can read about cin which was introduced in C++ along the iostream library
+or scanf which is much older and stems from the older C library. If I remember correctly, there should be ways to optimize it so
+the C++ way will be faster.
