@@ -13,6 +13,9 @@ all the information needed on this website, just tossing it in here. :)
 https://liu.kattis.com/help/judgements
 
 Run Times
+
 Erase Securely : 0.00s
+
 Compound Words : 0.00s
+
 CD             : 0.55s
