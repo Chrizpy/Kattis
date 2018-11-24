@@ -12,7 +12,7 @@ Over here you can see how the problems are judged, it's pretty easy to find
 all the information needed on this website, just tossing it in here. :)
 https://liu.kattis.com/help/judgements
 
-Run Times
+## Run Times
 
 Erase Securely : 0.00s
 
