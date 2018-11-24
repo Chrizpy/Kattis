@@ -16,7 +16,9 @@ while(scanf("%d%d", &jack, &jill))
         .
         .
         .
-
+```
+As opposed to doing it like this:
+```
 while(cin >> jack >> jill)
     {
         if (jack + jill == 0)
@@ -31,3 +33,5 @@ while(cin >> jack >> jill)
         .
         .
 ```
+
+Why I do it like this is easy! I went from a 1.15s running time to a whopping 0.55s!
